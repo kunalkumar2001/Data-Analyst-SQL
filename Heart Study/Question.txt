@@ -1,0 +1,10 @@
+1.Group participants by gender and find the average age for each group.
+2.Find genders with an average cholesterol level above 200.
+3.Calculate the percentage of participants with high cholesterol (above 240) out of the total number of participants.
+4.Find the number of distinct age values among males in the table.
+5.Find the participant(s) with the highest cholesterol level
+6. Find the count of individuals with high blood_pressure (above 140) for each age group.
+7. or each gender and age group, find the average cholesterol level for participants who have either a high blood pressure (above 140) or a high BMI (over 25).
+8. Find the participant with the maximum cholesterol in each age group, and then identify the age group and eduaction background with the highest average cholesterol among these participants.
+9. count of participants in each cholesterol range (low, medium, high) for each age group.
+10.calculate their rank based on cholesterol level within their age group.
