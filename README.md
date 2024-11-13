@@ -62,6 +62,7 @@ Welcome to the **Data-Analyst-SQL** repository! This repository showcases SQL pr
 2. Run the queries in your MySQL environment or import the scripts directly.
 3. Modify the queries as needed to suit your data sources or analytical needs.
 
-
+## Contributing
+Contributions are welcome! Please fork the repository, make changes, and submit a pull request for review.
 
 
