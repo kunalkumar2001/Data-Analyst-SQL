@@ -37,8 +37,8 @@ Welcome to the **Data-Analyst-SQL** repository! This repository showcases SQL pr
 
 ### 5. Healthcare Patient Analysis
    - **Description**: This dataset includes various features relevant to healthcare operations and patient records,
-   -   covering aspects like patient demographics, visit details, treatments, diagnoses, and costs.
-   - **Dataset**: [Kaggle Healthcare Dataset]([https://www.kaggle.com/datasets/prasad22/healthcare-dataset)]
+   -   covering patient demographics, visit details, treatments, diagnoses, and costs.
+   - **Dataset**: [Kaggle Healthcare Dataset]([https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
    - **Techniques Used**: SQL, Excel
 ---
 
