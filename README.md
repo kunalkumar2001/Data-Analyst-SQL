@@ -57,7 +57,7 @@ Welcome to the **Data-Analyst-SQL** repository! This repository showcases SQL pr
    cd Data-Analyst-SQL
 
 
-#Uasge
+## Uasge
 1. Review each SQL file within the project folders for different datasets and analysis tasks.
 2. Run the queries in your MySQL environment or import the scripts directly.
 3. Modify the queries as needed to suit your data sources or analytical needs.
